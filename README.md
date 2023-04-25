@@ -37,6 +37,9 @@
     src="https://img.shields.io/static/v1?label=|&message=NESTJS&color=informational&style=plastic&logo=NESTJS"
   />
   <img
+    src="https://img.shields.io/static/v1?label=|&message=AMAZON WEB SERVICES&color=informational&style=plastic&logo=amazonaws"
+  />
+  <img
     src="https://img.shields.io/static/v1?label=|&message=POSTGRESQL&color=informational&style=plastic&logo=POSTGRESQL"
   />
   <img
