@@ -1,10 +1,10 @@
 ![github-header-image](https://user-images.githubusercontent.com/71099459/170146091-8b084050-0473-41df-bab9-329bc12258c3.png)
 
-<h1 align="center">Estatísticas</h1>
+<!-- <h1 align="center">Estatísticas</h1>
 
 <div align="center">
   <img height="500em" src="https://wakatime.com/share/@denion465/1a2de224-4582-4039-846b-45f57b912d6f.svg"/>
-</div>
+</div> -->
 
 <h1 align="center">Tecnologias</h1>
 
