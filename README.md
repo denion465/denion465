@@ -1,10 +1,10 @@
-<h1 align="center">Estatísticas</h1>
+<!-- <h1 align="center">Estatísticas</h1>
 
 <div align="center">
   <img height="500em" src="https://wakatime.com/share/@denion465/97d3aa75-6d68-47e8-bf76-ec6b55114914.svg"/>
 </div>
 
-<h1 align="center">Tecnologias</h1>
+<h1 align="center">Tecnologias</h1> -->
 
 <p align="center">
   <img
@@ -12,18 +12,6 @@
   />
   <img
     src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=informational&style=plastic&logo=TYPESCRIPT"
-  />
-  <img
-    src="https://img.shields.io/static/v1?label=|&message=HTML5&color=informational&style=plastic&logo=HTML5"
-  />
-  <img
-    src="https://img.shields.io/static/v1?label=|&message=CSS3&color=informational&style=plastic&logo=CSS3"
-  />
-  <img
-    src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=informational&style=plastic&logo=REACT"
-  />
-  <img
-    src="https://img.shields.io/static/v1?label=|&message=VUE.JS&color=informational&style=plastic&logo=VUE.JS"
   />
   <img
     src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=informational&style=plastic&logo=NODE.JS"
